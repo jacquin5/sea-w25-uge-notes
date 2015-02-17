@@ -1,0 +1,6 @@
+What I learned about Unix:
+ls - list all the files in the directory
+cd - navigates through directories and files
+mkdir - creates a new folder
+touch - creates a new file
+

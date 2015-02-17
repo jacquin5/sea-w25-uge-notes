@@ -1,0 +1,7 @@
+Things I learned about Git:
+git init - initailizes a new repository
+git add - adds the files to the staging area
+git status - gives an overview of the files that haven't been pushed yet
+git commit - commits files to the stage area which prepares to be pushed to the master branch
+git remote <name of repository>
+git push origin master - pushes files that where in the staged area to the master branch
